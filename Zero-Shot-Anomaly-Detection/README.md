@@ -2,9 +2,6 @@
 
 <br>
 
-##  Members
-<div align="center">
-  
 </div>
 
 <br>
