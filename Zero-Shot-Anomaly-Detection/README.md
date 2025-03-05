@@ -4,11 +4,7 @@
 
 ##  Members
 <div align="center">
-
-장재훈
-:-:|:-:
-<https://github.com/jaehoon0602/div>
-
+  
 </div>
 
 <br>
